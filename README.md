@@ -1,11 +1,14 @@
 # Pokemon Sample Application
 
-A sample application created to use in the **Creating a Continuous Integration/Deployment System** workshop for the
+Pokestarter is a sample application created to use in the **Creating a Continuous Integration/Deployment System** workshop for the
 **Grace Hopper Celebration of Women in Computing 2016**. This application returns a random starter Pokemon
 as a web page and as an API call.
 
 
-## Workshop Setup Steps
+## [Workshop Slide Deck](https://docs.google.com/presentation/d/1qLgW7zYZjcBbhjhsYEiHHPjBHd7CHEqn5Fe7JYH_0xA/edit#slide=id.g185ac8bb51_0_5)
+
+
+## Local Setup Steps
 ### Installation
 * Download  and install [Docker Toolbox](https://www.docker.com/products/docker-toolbox)
 * Download and unzip [ngrok](https://ngrok.com/)
@@ -54,7 +57,7 @@ as a web page and as an API call.
 3. For the Trigger Pipeline job, check **Build when a change is pushed to GitHub**.
 
 
-## Running Application Locally
+## Running Sample Application Locally
 If you would like to run the web application outside of the Docker enviornmnets, you can use the following steps.
 ### To Run
 ```
